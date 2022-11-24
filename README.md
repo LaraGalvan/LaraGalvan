@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LaraGalvan
-- 🌱 I’m currently learning Smalltalk
-- 📫 How to reach me lgalvan@fi.uba.ar
+- 🌱 I’m currently learning Apex Salesforce
+- 📫 How to reach me larii8899@gmail.com
 
 <!---
 LaraGalvan/LaraGalvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
