@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LaraGalvan
-- 🌱 I’m currently learning Apex Salesforce
+- 🌱 I’m currently learning Apex and Salesforce technologies in LabsXD
 - 📫 How to reach me larii8899@gmail.com
 
 <!---
