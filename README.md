@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LaraGalvan
-- 🌱 I’m currently learning Haskell 
+- 🌱 I’m currently learning Haskell and Prolog at University
 - 📫 How to reach me larii8899@gmail.com
 
 <!---
