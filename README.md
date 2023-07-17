@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LaraGalvan
+- 👋 Hi, I’m @LaraGalvan. This is where i post all my projects 
 - 🌱 I’m currently learning Haskell and Prolog at University
 - 📫 How to reach me larii8899@gmail.com
 
