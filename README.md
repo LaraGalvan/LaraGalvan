@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @LaraGalvan. This is where i post all my projects 
-- 🌱 I’m currently learning Haskell and Prolog at University
+- 👋 Hi, I’m @LaraGalvan.
+- 💻 Full Stack Python Developer in progress
+- 🌱 I’m currently learning Wollok at University
 - 📫 How to reach me larii8899@gmail.com
 
 <!---
