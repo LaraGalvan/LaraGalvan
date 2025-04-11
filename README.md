@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LaraGalvan.
-- 💻 Full Stack Python Developer in progress
-- 🌱 I’m currently learning Wollok at University
+- 💻 Currently interested in Data Analytics and Data Science world
 - 📫 How to reach me larii8899@gmail.com
 
 <!---
